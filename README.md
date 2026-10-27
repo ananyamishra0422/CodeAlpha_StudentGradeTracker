@@ -1,2 +1,2 @@
-# CodeAlpha_StudentGradeTracker
+StudentGradeTracker
 This is my first Git Repository
